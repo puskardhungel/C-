@@ -111,7 +111,7 @@
 //    public static void Main(string[] args)
 //    {
 //        // instance of the Rectangle class
-//        Rectangle myRectangle = new Rectangle(5.5f, 2.9f);
+//        Rectangle myRectangle = new Rectangle(4.5f, 3.2f);
 
 //        //  print out the area
 //        float area = myRectangle.Area();
@@ -142,7 +142,7 @@
 
 //    public override float CalculateArea()
 //    {
-//        return (float)(Math.PI * Math.Pow(radius, 8));
+//        return (float)(Math.PI * Math.Pow(radius, 2));
 //    }
 //}
 
@@ -150,7 +150,7 @@
 //{
 //    public static void Main(string[] args)
 //    {
-//        Circle Circle = new Circle(9);
+//        Circle Circle = new Circle(5);
 //        float area = Circle.CalculateArea();
 //        Console.WriteLine("Area of the circle: " + area);
 //    }
@@ -185,7 +185,7 @@
 //{
 //    public static void Main(string[] args)
 //    {
-//        Student myStudent = new Student("Anil Tajpuriya", 22, "Computing");
+//        Student myStudent = new Student("John Doe", 20, "Computer Science");
 //        myStudent.Introduce();
 //    }
 //}
